@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>WaterpumpWrench.svg</file>
+        <file>WaterpumpWrench.png</file>
+        <file>questmaker.svg</file>
+        <file>questmaker.png</file>
+        <file>questmaker.ico</file>
+    </qresource>
+</RCC>
